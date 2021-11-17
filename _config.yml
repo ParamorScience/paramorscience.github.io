@@ -4,6 +4,8 @@ description: Platform and Resource for Atomic, Molecular and Optical Research
 show_downloads: False
 repostitory: paramorscience/paramorscience.github.io
 navigation:
+  -title: Home
+    url: /
   - title: Background
     url: Background
   - title: Work with us
