@@ -4,6 +4,6 @@ description: Platform and Resource for Atomic, Molecular and Optical Research
 show_downloads: False
 navigation:
   - title: About
-    url: /
+    url: about
   - title: Setup
     url: setup
