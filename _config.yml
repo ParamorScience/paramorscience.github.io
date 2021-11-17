@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
-show_downloads: True
+title: PARAMOR
+description: Platform and Resource for Atomic, Molecular and Optical Research
+show_downloads: False
 navigation:
-  - title: Home
+  - title: About
     url: /
   - title: Setup
     url: setup
