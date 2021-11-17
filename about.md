@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 PARAMOR is a project addressing Research Software Engineering (RSE) practices in the computational atomic, molecular and optical (AMO) physics community. At present the project is being set up as part of a five-year RSE fellowship awarded by the Engineering and Physical Sciences Research Council in the UK to [Dr. Andrew Brown](https://pure.qub.ac.uk/en/persons/andrew-brown), Reader in Theoretical Physics and Research Software Engineer at Queen's University Belfast. 
 
 Background

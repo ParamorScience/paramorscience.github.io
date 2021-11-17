@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: PARAMOR
 description: Platform and Resource for Atomic, Molecular and Optical Research
-url: about
 show_downloads: False
 repostitory: paramorscience/paramorscience.github.io
 navigation:
   - title: About
-    url: /
+    url: about
