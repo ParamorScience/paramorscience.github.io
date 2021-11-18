@@ -14,3 +14,5 @@ The project partners include
 * Drake University, Iowa
 * Charles University, Prague
 * The Open University
+
+# [WORK WITH US: PhD Project click here](phd1.md)
