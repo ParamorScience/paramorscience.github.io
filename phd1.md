@@ -4,7 +4,7 @@
 
 ## Supervisor: [Dr Andrew Brown](mailto:andrew.brown@qub.ac.uk), EPSRC Research Software Engineering Fellow
 
-##The project 
+## The project 
 
 For a long time, large parts of the scientific community have viewed the implementation of good practices in software design, development and maintenance as overheads which distract from their main goal of delivering scientific insight. However, [this view is changing](https://pure.qub.ac.uk/en/publications/whats-next-for-atomic-and-molecular-physics-software), and more and more scientists are waking up to the importance of making research software [FAIR](https://fair-software.nl/about) (findable, accessible, interoperable and reusable) and sustainable.
 
