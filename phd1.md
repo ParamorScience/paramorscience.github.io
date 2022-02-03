@@ -19,3 +19,5 @@ The successful applicant will be based in Belfast, where they will interact prim
 Applicants must have a 2:1 undergraduate degree in software engineering or another, relevant area (e.g. physics, computer science*). In addition, applicants should be able to demonstrate relevant software engineering experience, e.g. details of employment or work placements, or a link to GitHub repositories. Knowledge of AMO physics and high-performance (parallel) computing is desirable but not required. 
 
 \* (applicants will be considered from different educational backgrounds provided they can demonstrate suitable software engineering experience)
+
+# [Apply here](https://www.qub.ac.uk/courses/postgraduate-research/phd-opportunities/reengineering-scientific-software-for-the-future.html)
