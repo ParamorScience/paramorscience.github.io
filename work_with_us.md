@@ -5,6 +5,5 @@ One way to participate in the PARAMOR project is to contribute to the various so
 
 Also, we will have a number of funded PhD and post-doc positions which will be advertised here. 
 
-Currently we have one open position:
+Currently we have no open positions, but will be advertising a post-doc position soon.
 
-[PhD project: re-engineering scientific software for the future](phd1.md)
